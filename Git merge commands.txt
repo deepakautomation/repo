@@ -1,0 +1,5 @@
+git branch "branchname"
+git checkout "branchname"
+git merge "branchname"
+git branch -d"branchname"
+git push origin —delete “branch name”
